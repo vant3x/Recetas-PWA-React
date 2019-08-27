@@ -1,0 +1,16 @@
+{
+  "short_name": "Recetas App",
+  "name": "Recetas App",
+  "icons": [
+    {
+      "src": "/baker3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#ffa500",
+  "background_color": "#ffffff"
+}
